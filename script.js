@@ -1,0 +1,1 @@
+document.write("Teste de escrever no documento")
